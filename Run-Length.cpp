@@ -3,6 +3,7 @@ using namespace std;
 
 void printRLE(string str)
 {
+	
 	int n = str.length();
 	for (int i = 0; i < n; i++) {
 
